@@ -1,0 +1,26 @@
+{
+  "name": "Node.js-server-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanOrsh/Node.js-server-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanOrsh/Node.js-server-playground/issues"
+  },
+  "homepage": "https://github.com/IvanOrsh/Node.js-server-playground#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  },
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
