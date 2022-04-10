@@ -15,6 +15,7 @@ const router = {
   notFound: handlers.notFound,
   users: handlers.users,
   tokens: handlers.tokens,
+  checks: handlers.checks,
 };
 
 const unifiedServer = (req, res) => {
