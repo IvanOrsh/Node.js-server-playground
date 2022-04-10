@@ -14,6 +14,7 @@ const router = {
   ping: handlers.ping,
   notFound: handlers.notFound,
   users: handlers.users,
+  tokens: handlers.tokens,
 };
 
 const unifiedServer = (req, res) => {
